@@ -1,4 +1,4 @@
-//Write a program to print all factors of a given number.
+//Write a program to find the HCF (GCD) of two numbers.
 
 #include <stdio.h>
 
@@ -21,3 +21,4 @@ int main() {
     return 0;
 
 }
+
