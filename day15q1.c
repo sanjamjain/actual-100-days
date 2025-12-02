@@ -1,3 +1,5 @@
+//Write a program to calculate the factorial of a number.
+
 #include <stdio.h>
 
 int main() {
@@ -17,4 +19,5 @@ int main() {
     }
 
     return 0;
+
 }
