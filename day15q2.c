@@ -1,3 +1,5 @@
+//Write a program to reverse a given number.
+
 #include <stdio.h>
 
 int main() {
@@ -15,4 +17,5 @@ int main() {
     printf("%d\n", reversed_num);
 
     return 0;
+
 }
